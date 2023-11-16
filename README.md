@@ -25,6 +25,7 @@ To install the project, follow these steps:
 - ``/api``: This directory contains the main api endpoints.
 - ``/db_seeder``: This directory contains the script that fills the database with data.
 - ``/djangoTestApp``: This directory contains the main parent app.
+- ``/djangoTestApp/settings_local.py``: Not included in the repository, it is used to specify local project settings
 
 ## Usage
 - With default django server:

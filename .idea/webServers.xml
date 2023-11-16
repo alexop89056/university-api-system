@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9d297d5e-2c34-411d-bd80-20b2ac7377b0" name="TestDjango">
+        <fileTransfer accessType="SFTP" host="192.168.100.23" port="22" sshConfigId="ba56826d-b3f6-493b-a73e-f6e9bef84e14" sshConfig="kali@192.168.100.23:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+django
+gunicorn
+drf-spectacular
+djangorestframework-simplejwt
+django-cors-headers
+djangorestframework
+django-filter
+django_seed
+psycopg2-binary

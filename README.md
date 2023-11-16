@@ -54,6 +54,11 @@ Start filling in the database:
 - Access to the admin panel via the path ``/admin``, Username: ``admin``, password: ``123``.
 - ``Jwt tokens`` are also connected to this project.
 
-  
+## Screenshots
+![image](https://github.com/alexop89056/university-api-system/assets/70460774/74ea60f6-aedc-4d16-b6ad-8f2a2babed6c)
+#
+![image](https://github.com/alexop89056/university-api-system/assets/70460774/4fa2e809-d5b6-4872-b26b-ade519f574ec)
+
+
 ## License
 This project is licensed under the MIT License - see the [main page](https://mit-license.org/) for the details.

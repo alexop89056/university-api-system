@@ -37,6 +37,17 @@ To install the project, follow these steps:
    ```bash
    gunicorn djangoTestApp.wsgi:application
 
+Start filling in the database: 
+- Run django application in shell mode:
+    ```bash
+    python manage.py shell
+- Import we need the necessary function:
+    ```python
+    from db_seeder.seeds import function (example: students)
+- Start filling in:
+    ```bash
+    function() (example: students)
+
 ## Notes
 - File ``settings_local.py`` : Is used to overwrite settings from ``settings.py`` , y ``settings_local.py`` file has more priority.
 - The Swagger UI URL is located at ``/schema/swagger-ui``.
